@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LucynYsk
+- 👀 I’m interested in learn more and more of DEV.
+- 🌱 I’m currently learning Csharp, C++, DELPHI.
+- 💞️ I’m looking to collaborate on a project.
+- 📫 How to reach me 
